@@ -30,7 +30,7 @@ The PHP Medical Appointment System is a user-friendly system designed to streaml
    cd php-medical-appointment-system
    ```
 
-3. Set up your database and update the `.env` file with your database credentials.
+3. Set up your database with your database credentials.
 
 4. Run the database migrations to set up the necessary tables.
 
