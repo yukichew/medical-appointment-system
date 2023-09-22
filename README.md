@@ -14,9 +14,9 @@ The PHP Medical Appointment System is a user-friendly system designed to streaml
   
 - **Doctor Dashboard:** Doctors can view their upcoming appointments, confirm or reschedule them, and manage their availability.
   
-- **Admin Panel:** Admin users can manage both doctors and patients, oversee appointment schedules, and generate reports.
+- **Admin Panel:** Admin can manage doctors and patients, oversee appointment schedules, and generate reports.
   
-- **Responsive Design:** Tthe system is fully responsive and looks great on all devices, from desktops to mobile phones using Bootstrap.
+- **Responsive Design:** The system is fully responsive and looks great on all devices, from desktops to mobile phones using Bootstrap.
 
 ## Installation
 
